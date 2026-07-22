@@ -69,3 +69,5 @@ read-and-solve experience:
 2. Hosted DEMO on GitHub Pages + demo page, embedded in a Wix test page for sign-off.
 3. When `/api/capstone/*` lands: flip the fetch layer to the real endpoints, delete the
    DEMO path, end-to-end run with a real student account, Lark record verified.
+
+PARKED 22 Jul 2026: testing programme paused by Daniel (ruling-20260722-pause-testing); no new work; resume per ORCHESTRATION ACTIVE-programme section.
