@@ -100,3 +100,5 @@ no auto-merge; Daniel holds the merge button. Frontend acceptance is a human act
   `_placement/` content or placement pool keys, must be 0.
 - Fail-closed permission tests: no session, wrong-email session, expired session,
   tampered state blob all rejected.
+
+PARKED 22 Jul 2026: testing programme paused by Daniel (ruling-20260722-pause-testing); no new work; resume per ORCHESTRATION ACTIVE-programme section.
